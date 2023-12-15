@@ -1,0 +1,16 @@
+textarea{
+    resize: none;
+
+}
+body{
+    background-color: #495057;
+
+}
+h1{
+font-family: 'Ubuntu Condensed', sans-serif;
+}
+.container{
+    height: 75vh;
+    width: 35%;
+    background-color: #182436;
+}
